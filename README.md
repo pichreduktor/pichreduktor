@@ -29,6 +29,16 @@
 <h2> 🧾 Certificates:</h2>
 
 - [Python basics-LinkedIn](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Explore Windows Security - part 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Explore Windows Security - part 2](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Wireshark basics](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
+<h2> 🎓 Education:</h2>
+
+- [Jagiellonian university/HackerU](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TDX Arena](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [HackTheBox](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TryHackMe](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
