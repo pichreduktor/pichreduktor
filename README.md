@@ -53,7 +53,7 @@
 -
 <h2> 🎥 favorite YouTube video:</h2>
 - [Harvard CS50’s Introduction to Programming with Python](https://www.youtube.com/watch?v=nLRL_NcnK-4)
-- [Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
+-[Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
 
 <h2> 🤳 Connect with me:</h2>
 
