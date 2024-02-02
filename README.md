@@ -2,9 +2,9 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 <ul>
-  <li>Punkt 1</li>
+  <li>IP Address Management PowerShell Script</li>
   <li>Punkt 2</li>
-  <li>Nowy punkt</li>
+  
 </ul>
 
 
