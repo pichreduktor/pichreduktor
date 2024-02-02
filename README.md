@@ -1,4 +1,4 @@
-<h1>Hi, I'm Szymon! <br/><a href="https://github.com/pichreduktor</a>, <a href="https://www.linkedin.com/in/szymon-picheta-532885136/">Junior Cybersecurity</a>, <a href="https://www.youtube.com/c/pichreduktor">YouTuber</a></h1>
+<h1>Hi, I'm Szymon! <br/><a href="https://github.com/pichreduktor</a>, <a href="https://www.linkedin.com/in/szymon-picheta-532885136/">Junior Cybersecurity</a>, <a href="https://www.youtube.com/c/pichreduktor">YouTube</a></h1>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 <ul>
